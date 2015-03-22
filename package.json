@@ -1,0 +1,14 @@
+{
+  "name": "puski",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
