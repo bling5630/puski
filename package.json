@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node ./test/index.spec.js"
+    "test": "node ./potter/index.spec.js"
   },
   "author": "",
   "license": "ISC",
